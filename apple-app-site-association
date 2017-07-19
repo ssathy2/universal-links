@@ -1,11 +1,18 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "KFCNEC27GU.com.razeware.UniveralLinksTutorial",
-				"paths": [ "*"]
-			}
-		]
-	}
+    "applinks": {
+        "apps": [],
+        "details": [{
+                "appID": "UR7996XGFD.com.footlocker.kids.debug",
+                "paths": ["/activate"]
+            },
+            {
+                "appID": "UR7996XGFD.com.footlocker.kids.releasecandidate",
+                "paths": ["/activate"]
+            },
+            {
+                "appID": "UR7996XGFD.com.footlocker.kids.continuousintegration",
+                "paths": ["/activate"]
+            }
+        ]
+    }
 }
