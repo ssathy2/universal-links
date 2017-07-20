@@ -1,18 +1,23 @@
 {
     "applinks": {
         "apps": [],
-        "details": [{
+        "details": [
+            {
                 "appID": "UR7996XGFD.com.footlocker.kids.debug",
-                "paths": ["*"]
+                "paths": [ "*" ]
             },
             {
                 "appID": "UR7996XGFD.com.footlocker.kids.releasecandidate",
-                "paths": ["*"]
+                "paths": [ "*" ]
             },
             {
                 "appID": "UR7996XGFD.com.footlocker.kids.continuousintegration",
-                "paths": ["*"]
-            }
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "Z4645SY9TJ.com.footlocker.kids.debug",
+                "paths": [ "*" ]
+            }   
         ]
     }
 }
