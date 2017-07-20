@@ -3,15 +3,19 @@
         "apps": [],
         "details": [{
                 "appID": "UR7996XGFD.com.footlocker.kids.debug",
-                "paths": ["/activate"]
+                "paths": ["/account-activation.html"]
             },
             {
                 "appID": "UR7996XGFD.com.footlocker.kids.releasecandidate",
-                "paths": ["/activate"]
+                "paths": ["/account-activation.html"]
             },
             {
                 "appID": "UR7996XGFD.com.footlocker.kids.continuousintegration",
-                "paths": ["/activate"]
+                "paths": ["/account-activation.html"]
+            },
+            {
+                "appID": "Z4645SY9TJ.com.footlocker.kids.debug",
+                "paths": ["/account-activation.html"]
             }
         ]
     }
