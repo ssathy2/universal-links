@@ -1,23 +1,34 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "UR7996XGFD.com.footlocker.kids.debug",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "UR7996XGFD.com.footlocker.kids.releasecandidate",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "UR7996XGFD.com.footlocker.kids.continuousintegration",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "Z4645SY9TJ.com.footlocker.kids.debug",
-                "paths": [ "*" ]
-            }   
-        ]
-    }
+	"applinks": {
+		"apps": [],
+		"details": [{
+				"appID": "UR7996XGFD.com.footlocker.kids.debug",
+				"paths": [
+					"/user-activation.html",
+					"/reset-password.html"
+				]
+			},
+			{
+				"appID": "UR7996XGFD.com.footlocker.kids.releasecandidate",
+				"paths": [
+					"/user-activation.html",
+					"/reset-password.html"
+				]
+			},
+			{
+				"appID": "UR7996XGFD.com.footlocker.kids.continuousintegration",
+				"paths": [
+					"/user-activation.html",
+					"/reset-password.html"
+				]
+			},
+			{
+				"appID": "UR7996XGFD.com.footlocker.kids",
+				"paths": [
+					"/user-activation.html",
+					"/reset-password.html"
+				]
+			}
+		]
+	}
 }
