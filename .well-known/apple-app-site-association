@@ -5,7 +5,8 @@
 				"appID": "UR7996XGFD.com.footlocker.kids.debug",
 				"paths": [
 					"/user-activation.html",
-					"/reset-password.html"
+					"/reset-password.html",
+					"/products/*"
 				]
 			},
 			{
