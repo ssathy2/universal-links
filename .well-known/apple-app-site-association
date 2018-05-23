@@ -7,7 +7,8 @@
 					"/user-activation.html",
 					"/reset-password.html",
 					"/product/*",
-					"/release-dates"
+					"/release-dates",
+					"*"
 				]
 			},
 			{
@@ -16,7 +17,8 @@
 					"/user-activation.html",
 					"/reset-password.html",
 					"/product/*",
-					"/release-dates"
+					"/release-dates",
+					"*"
 				]
 			},
 			{
@@ -25,16 +27,15 @@
 					"/user-activation.html",
 					"/reset-password.html",
 					"/product/*",
-					"/release-dates"
+					"/release-dates",
+					"*"					
 				]
 			},
 			{
 				"appID": "RHS4UM68K2.com.footlocker.kids",
 				"paths": [
 					"/user-activation.html",
-					"/reset-password.html",
-					"/product/*",
-					"/release-dates"
+					"/reset-password.html"
 				]
 			},
 			{
@@ -43,7 +44,8 @@
 					"/user-activation.html",
 					"/reset-password.html",
 					"/product/*",
-					"/release-dates"
+					"/release-dates",
+					"*"					
 				]
 			},
 			{
@@ -52,7 +54,8 @@
 					"/user-activation.html",
 					"/reset-password.html",
 					"/product/*",
-					"/release-dates"
+					"/release-dates",
+					"*"					
 				]
 			},
 			{
@@ -61,16 +64,15 @@
 					"/user-activation.html",
 					"/reset-password.html",
 					"/product/*",
-					"/release-dates"
+					"/release-dates",
+					"*"					
 				]
 			},
 			{
 				"appID": "RHS4UM68K2.com.footaction.footaction",
 				"paths": [
 					"/user-activation.html",
-					"/reset-password.html",
-					"/product/*",
-					"/release-dates"
+					"/reset-password.html"
 				]
 			}
 		]
