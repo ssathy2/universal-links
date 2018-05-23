@@ -6,28 +6,71 @@
 				"paths": [
 					"/user-activation.html",
 					"/reset-password.html",
-					"/product/*"
+					"/product/*",
+					"/release-dates"
 				]
 			},
 			{
 				"appID": "UR7996XGFD.com.footlocker.kids.releasecandidate",
 				"paths": [
 					"/user-activation.html",
-					"/reset-password.html"
+					"/reset-password.html",
+					"/product/*",
+					"/release-dates"
 				]
 			},
 			{
 				"appID": "UR7996XGFD.com.footlocker.kids.continuousintegration",
 				"paths": [
 					"/user-activation.html",
-					"/reset-password.html"
+					"/reset-password.html",
+					"/product/*",
+					"/release-dates"
 				]
 			},
 			{
-				"appID": "UR7996XGFD.com.footlocker.kids",
+				"appID": "RHS4UM68K2.com.footlocker.kids",
 				"paths": [
 					"/user-activation.html",
-					"/reset-password.html"
+					"/reset-password.html",
+					"/product/*",
+					"/release-dates"
+				]
+			},
+			{
+				"appID": "UR7996XGFD.com.footlocker.footaction.debug",
+				"paths": [
+					"/user-activation.html",
+					"/reset-password.html",
+					"/product/*",
+					"/release-dates"
+				]
+			},
+			{
+				"appID": "UR7996XGFD.com.footlocker.footaction.releasecandidate",
+				"paths": [
+					"/user-activation.html",
+					"/reset-password.html",
+					"/product/*",
+					"/release-dates"
+				]
+			},
+			{
+				"appID": "UR7996XGFD.com.footlocker.footaction.continuousintegration",
+				"paths": [
+					"/user-activation.html",
+					"/reset-password.html",
+					"/product/*",
+					"/release-dates"
+				]
+			},
+			{
+				"appID": "RHS4UM68K2.com.footaction.footaction",
+				"paths": [
+					"/user-activation.html",
+					"/reset-password.html",
+					"/product/*",
+					"/release-dates"
 				]
 			}
 		]
